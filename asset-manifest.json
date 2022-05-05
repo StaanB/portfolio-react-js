@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d3228db6.css",
+    "main.js": "./static/js/main.e1fe8f99.js",
+    "static/media/la_fatie_expandido.png": "./static/media/la_fatie_expandido.2fab4e57f80aa3678365.png",
+    "static/media/mapa_salvador.png": "./static/media/mapa_salvador.4fbb5ef27ef9a23ce3eb.png",
+    "static/media/pin_mapa.png": "./static/media/pin_mapa.8b385c2ab817a6c70dee.png",
+    "static/media/la_fatie_miniatura.png": "./static/media/la_fatie_miniatura.370d346bcc8a41da949e.png",
+    "index.html": "./index.html",
+    "main.d3228db6.css.map": "./static/css/main.d3228db6.css.map",
+    "main.e1fe8f99.js.map": "./static/js/main.e1fe8f99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3228db6.css",
+    "static/js/main.e1fe8f99.js"
+  ]
+}
